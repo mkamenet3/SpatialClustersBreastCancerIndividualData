@@ -1,6 +1,6 @@
 #M.Kamenetsky
 #2021-5-21
-#These figures identify the clusters from the models
+#Identify the clusters from the models
 #Not used in final manuscript
 ######################################################################################
 #######################################################################################

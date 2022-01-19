@@ -3,7 +3,7 @@ rm(list=ls())
 ########################################################
 #2020-5-01
 #M.Kamenetsky
-#create descriptive tables (both imputed and not imputed)
+#create descriptive tables 
 #create overall tables and tables separated out by CCS status
 
 ########################################################
